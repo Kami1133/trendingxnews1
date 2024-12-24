@@ -1,5 +1,5 @@
 "scripts": {
-  "build": "next build" // 
+  "build": "next build" 
 }
 
 
