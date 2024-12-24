@@ -1,3 +1,8 @@
+"scripts": {
+  "build": "next build" // ya jo relevant build command hai
+}
+
+
 {
   "name": "vercel-redirect",
   "version": "0.1.0",
