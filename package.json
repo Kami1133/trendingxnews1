@@ -1,5 +1,5 @@
 "scripts": {
-  "build": "next build" // ya jo relevant build command hai
+  "build": "next build" // 
 }
 
 
